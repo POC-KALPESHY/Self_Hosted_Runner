@@ -6,7 +6,7 @@ on:
 
 jobs:
   Explore-GitHub-Actions:
-    runs-on: self-hosted
+    runs-on: kalpesh-runner
     steps:
       - name: Kalpesh
         run: echo " HELLO THERE "
